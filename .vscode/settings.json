@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "signum.h": "c",
+        "types.h": "c",
+        "sig_atomic_t.h": "c",
+        "features.h": "c",
+        "signum-generic.h": "c"
+    }
+}
