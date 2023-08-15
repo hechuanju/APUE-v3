@@ -5,6 +5,7 @@
         "types.h": "c",
         "sig_atomic_t.h": "c",
         "features.h": "c",
-        "signum-generic.h": "c"
+        "signum-generic.h": "c",
+        "stdlib.h": "c"
     }
 }
